@@ -45,7 +45,7 @@ const Resume = () => {
         <Tag>#React, SpringBoot에 대한 지식 수강</Tag>
       </InfoBox>
 
-      <Title>진행한 프로젝트</Title>
+      <Title>Project</Title>
       <InfoBox>
         <Text>"바르콘" 앱 개발</Text>
         <DetailText>
