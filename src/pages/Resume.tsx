@@ -51,6 +51,8 @@ const Resume = () => {
         <DetailText>
           - <LinkText href="https://github.com/inkink10/barrcon" target="_blank"></LinkText>
         </DetailText>
+        <DetailText>- 기프티콘 거래 앱</DetailText>
+        <DetailText>- Best Implementation 상 수상</DetailText>
         <Tag>#Flutter</Tag>
         <Tag>#Dart</Tag>
       </InfoBox>
@@ -59,6 +61,8 @@ const Resume = () => {
         <DetailText>
           - <LinkText href="https://github.com/inkink10/2023-short-room-bangu" target="_blank"></LinkText>
         </DetailText>
+        <DetailText>- 자취방 양도 앱</DetailText>
+        <DetailText>- Sogra 우수상 수상</DetailText>
         <Tag>#Flutter</Tag>
         <Tag>#Dart</Tag>
       </InfoBox>
