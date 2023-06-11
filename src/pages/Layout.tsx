@@ -137,11 +137,14 @@ const Layout = () => {
     <div>
       <Profile>
         <div>
-          <ProfilePicture src="https://avatars.githubusercontent.com/u/51053567?v=4" alt="프로필 사진" />
+          <ProfilePicture
+            src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F5429581%2Fattach%2F4c1acfbf3954443393873eb0a89e6799"
+            alt="프로필 사진"
+          />
         </div>
         <div>
-          <Name>안형진</Name>
-          <Description>Flutter, NLP를 좋아하는 대학생</Description>
+          <Name>변인경</Name>
+          <Description>컴퓨터공학과 학부생</Description>
         </div>
       </Profile>
       <Nav>

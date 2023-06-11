@@ -6,7 +6,6 @@
 import styled from '@emotion/styled';
 import Tag from '../components/Tag';
 
-
 const Title = styled.h1`
   font-size: 3rem;
   line-height: 1.5;
@@ -32,8 +31,7 @@ const InfoBox = styled.div`
   padding-bottom: 20px;
 `;
 
-const LinkText = styled.a`
-`;
+const LinkText = styled.a``;
 
 const Resume = () => {
   return (
@@ -44,6 +42,7 @@ const Resume = () => {
         <DetailText>- 2021.03 ~ Current</DetailText>
         <DetailText>- Python, C#, C++, java, Dart</DetailText>
         <Tag>#컴퓨터공학</Tag>
+        <Tag>#React, SpringBoot에 대한 지식 수강</Tag>
       </InfoBox>
 
       <Title>진행한 프로젝트</Title>
