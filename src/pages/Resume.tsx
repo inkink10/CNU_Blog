@@ -38,29 +38,33 @@ const LinkText = styled.a`
 const Resume = () => {
   return (
     <>
-    <Title>Experiences</Title>
-    <InfoBox>
-      <Text>충남대학교 학부생</Text>
-      <DetailText>- 2021.03 ~ Current</DetailText>
-      <DetailText>- Python, C#, C++, java, Dart</DetailText>
-      <Tag>#컴퓨터공학</Tag>
-    </InfoBox>
-
-    <Title>진행한 프로젝트</Title>
-    <InfoBox>
-      <Text>"바르콘" 앱 개발</Text>
-      <DetailText>- <LinkText href='https://github.com/inkink10/barrcon' target='_blank'></LinkText></DetailText>
-      <Tag>#Flutter</Tag>
-      <Tag>#Dart</Tag>
-    </InfoBox>
+      <Title>Experiences</Title>
       <InfoBox>
-        <Text>"짧은 방구하기" 앱 개발</Text>
-        <DetailText>- <LinkText href='https://github.com/inkink10/2023-short-room-bangu' target='_blank'></LinkText></DetailText>
+        <Text>충남대학교 학부생</Text>
+        <DetailText>- 2021.03 ~ Current</DetailText>
+        <DetailText>- Python, C#, C++, java, Dart</DetailText>
+        <Tag>#컴퓨터공학</Tag>
+      </InfoBox>
+
+      <Title>진행한 프로젝트</Title>
+      <InfoBox>
+        <Text>"바르콘" 앱 개발</Text>
+        <DetailText>
+          - <LinkText href="https://github.com/inkink10/barrcon" target="_blank"></LinkText>
+        </DetailText>
         <Tag>#Flutter</Tag>
         <Tag>#Dart</Tag>
       </InfoBox>
-
-  </>;
+      <InfoBox>
+        <Text>"짧은 방구하기" 앱 개발</Text>
+        <DetailText>
+          - <LinkText href="https://github.com/inkink10/2023-short-room-bangu" target="_blank"></LinkText>
+        </DetailText>
+        <Tag>#Flutter</Tag>
+        <Tag>#Dart</Tag>
+      </InfoBox>
+    </>
+  );
 };
 
 export default Resume;
