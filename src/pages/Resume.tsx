@@ -49,7 +49,7 @@ const Resume = () => {
       <InfoBox>
         <Text>"바르콘" 앱 개발</Text>
         <DetailText>
-          - <LinkText href="https://github.com/inkink10/barrcon" target="_blank"></LinkText>
+          - <LinkText href="https://github.com/inkink10/barrcon" target="_blank">barrcon</LinkText>
         </DetailText>
         <DetailText>- 기프티콘 거래 앱</DetailText>
         <DetailText>- Best Implementation 상 수상</DetailText>
@@ -59,7 +59,7 @@ const Resume = () => {
       <InfoBox>
         <Text>"짧은 방구하기" 앱 개발</Text>
         <DetailText>
-          - <LinkText href="https://github.com/inkink10/2023-short-room-bangu" target="_blank"></LinkText>
+          - <LinkText href="https://github.com/inkink10/2023-short-room-bangu" target="_blank">short_room</LinkText>
         </DetailText>
         <DetailText>- 자취방 양도 앱</DetailText>
         <DetailText>- Sogra 우수상 수상</DetailText>
